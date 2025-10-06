@@ -1,0 +1,32 @@
+img{
+    border-radius: 75px;
+    padding: 10px;
+}
+
+h2{
+    font-size: 18px;
+}
+
+body{
+    background-color: slateblue;
+    font-family: Trebuchet MS;
+    color: white;
+    text-align: center;
+}
+
+a{
+    background-color: white;
+    font-size: 20px;
+    border-radius: 30px;
+    padding: 10px;
+    display: block;
+    text-align: center;
+    margin: 15px;
+    color: slateblue;
+    text-decoration: none;
+    
+}
+
+a:hover{
+    background-color: #0056b3;
+}
